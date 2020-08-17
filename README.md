@@ -19,30 +19,23 @@
 </p>
 
 <p align="center">
-  Content Management System
+  Cylinders Management System
 </p>
 
 ## Project architecture
 <ul>
-  <li>YS.CMS.Common</li>
-  <li>YS.CMS.Common</li>
-  <li>YS.CMS.Domain</li>
-  <li>YS.CMS.Services.Api</li>
-  <li>YS.CMS.Services.ApiAuthProvider</li>
-  <li>YS.CMS.Infra.CrossCutting</li>
-  <li>YS.CMS.Infra.Data</li>
-  <li>YS.CMS.Infra.DI</li>
-  <li>YS.CMS.Infra.Security</li>
-  <li>YS.CMS.Apps.WebApp</li>
+  <li>Teste</li>
 </ul>
  
  
  ## Tools
  <ul>
-  <li>Visual Studio Community 2019</li>
-  <li>SQL Server Management Studio 2018</li>
+  <li>Visual Studio2019</li>
+  <li>Amazon AWS</li>
   <li>Postman</li>
   <li>Adobe XD (Prototype)</li>
+  <li>Git</li>
+  <li>Visual Studio Code</li>
 </ul>
 
 ### Install
@@ -50,8 +43,8 @@
 #### npm
 
 ```
-$ git clone https://github.com/matteusmachhado/Your-Software.git
-$ cd YS.CMS.Apps.WebApp
+$ git clone "comando"
+$ cd "comando"
 $ npm install
 ```
 
@@ -60,5 +53,5 @@ $ npm install
 
 ## Author
 
-| [<img src="https://avatars0.githubusercontent.com/u/16436507?s=96&v=4"><br><sub>@matteusmachhado</sub>](https://github.com/matteusmachhado) |
+| [<img src="https://avatars0.githubusercontent.com/u/16437028?s=60&v=4"><br><sub>@kelvismnd</sub>](https://github.com/kelvismnd) |
 | :---: |

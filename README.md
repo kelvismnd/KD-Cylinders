@@ -2,7 +2,7 @@
 
 <p align="center">
   <label>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png" width="128px" height="128px">
+    <img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" width="128px" height="128px">
   </label>
   <label>
     <img src="https://webpack.js.org/assets/icon-square-small-slack.png" width="128px" height="128px">

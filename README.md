@@ -4,8 +4,9 @@
   <label>
     <img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" width="128px" height="128px">
   </label>
+  
   <label>
-    <img src="https://image.flaticon.com/icons/png/128/919/919832.png" width="128px" height="128px">
+ 
   </label>
   <label>
     <img src="https://danieljscheufler.files.wordpress.com/2016/05/2p4i.png?w=256&h=256" width="128px" height="128px">

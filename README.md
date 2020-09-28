@@ -5,9 +5,6 @@
     <img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" width="128px" height="128px">
   </label>
   <label>
-    <img src="https://webpack.js.org/assets/icon-square-small-slack.png" width="128px" height="128px">
-  </label>
-  <label>
     <img src="https://image.flaticon.com/icons/png/128/919/919832.png" width="128px" height="128px">
   </label>
   <label>

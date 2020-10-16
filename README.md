@@ -7,7 +7,7 @@
   </label>
   
   <label>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png width="128px" height="128px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="128px" height="128px">
   <label> 
 
   </label>
